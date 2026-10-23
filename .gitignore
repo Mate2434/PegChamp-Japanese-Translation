@@ -1,0 +1,5 @@
+*.exe
+*.jpmod-original
+*.tmp
+__pycache__/
+*.pyc

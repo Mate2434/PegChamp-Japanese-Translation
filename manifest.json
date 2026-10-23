@@ -1,0 +1,30 @@
+{
+  "mod": "Peg Champ Japanese Mod",
+  "version": "1.1",
+  "original_name": "peg_champ_beta.exe",
+  "original_sha256": "89ba8de69c4b3d7ea8c12db253ae220e14e3819cfc667af735a7ce92db5f921b",
+  "patched_sha256": "b8dc597b256999b408ac8f5b0f31dfb02fbe135e965db3847f54af450e8c2a1f",
+  "original_size": 141061024,
+  "patched_size": 146869722,
+  "prefix_length": 140913296,
+  "edits": [
+    {
+      "offset": 110804000,
+      "hex": "4a10240200000000"
+    }
+  ],
+  "tail_file": "patch_tail.bin",
+  "tail_sha256": "d99c448e764988c754ecc4b42648e01ac57c9345a7113c3e5f61897c3541faa1",
+  "translation_entries": 331,
+  "script_replacements": 28,
+  "scene_replacements": 28,
+  "resource_count": 27,
+  "language_slot": "en",
+  "japanese_glyph_scale": 0.72,
+  "previous_patched_sha256": [
+    "0aeca0de4ec888e7bad0b10564b48ebb55c1ebe0ac1c9a8b535d22aa3e5d0ad3"
+  ],
+  "previous_patched_sizes": [
+    146899914
+  ]
+}
